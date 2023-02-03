@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @blewcheez
 - 👀 I’m interested in ... Graphic Desgin & Computer Science
-- 🌱 I’m currently learning ...Coding with CS50 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Information Technology and Digital Media at UCF 
+- 💞️ I’m looking to collaborate on Projects 
 - 📫 How to reach me ... instagram - blewcheez
 
 <!---
