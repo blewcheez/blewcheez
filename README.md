@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @blewcheez
+- 👋 Hi, I’m Wade
 - 👀 I’m interested in ... Graphic Desgin & Computer Science
 - 🌱 I’m currently learning Information Technology and Digital Media at UCF 
 - 💞️ I’m looking to collaborate on Projects 
