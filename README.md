@@ -8,7 +8,10 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/blewcheez/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/blewcheez/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/blewcheez/azure-network-protocols)
+  - [File Sharing Permissions within an Active Directory](https://github.com/blewcheez/file-sharing-permissions)
+  - [DNS exploration](https://github.com/blewcheez/exploring-dns)
+- <b>Virtual Private Network (VPN)</b>
+  - [Configuring a VPN with a VM (Virtual Machine)](https://github.com/blewcheez/vpn-config)
 
 <h2>🤳Connect with me:</h2>
 
@@ -16,6 +19,5 @@
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/Josh
-[instagram]: https://www.instagram.com/Josh
-[linkedin]: https://linkedin.com/in/Josh
+[instagram]: https://www.instagram.com/
+[linkedin]: https://linkedin.com/in/
