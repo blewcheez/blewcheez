@@ -6,7 +6,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/blewcheez/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/blewcheez/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/blewcheez/ticket-lifecycle)
-- <b>Microsoft Azure</b>
+- <b>Microsoft Azure (Cloud Computing Platform)</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/blewcheez/configure-ad)
   - [File Sharing Permissions within an Active Directory](https://github.com/blewcheez/file-sharing-permissions)
   - [DNS exploration](https://github.com/blewcheez/exploring-dns)
