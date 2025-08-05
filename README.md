@@ -12,6 +12,9 @@
   - [DNS exploration](https://github.com/blewcheez/exploring-dns)
 - <b>Virtual Private Network (VPN)</b>
   - [Configuring a VPN with a VM (Virtual Machine)](https://github.com/blewcheez/vpn-config)
+ 
+- <b>Windows Powershell</b>
+  - [Windows Powershell: One-Click Diagnosis Script](https://github.com/blewcheez/one-click-script)
 
 <h2>🤳Connect with me:</h2>
 
