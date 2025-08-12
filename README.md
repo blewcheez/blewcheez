@@ -16,8 +16,8 @@
 - <b>Windows Powershell</b>
   - [Windows Powershell: One-Click Diagnosis Script](https://github.com/blewcheez/one-click-script)
     
-- <b>Automated Network Monitoring Dashboard (Python)</b>
-  - [Network Monitor Dashboard](https://github.com/blewcheez/network-monitor-dashboard)
+- <b>Network Monitoring Dashboard (Python)</b>
+  - [Automated Network Monitor Dashboard](https://github.com/blewcheez/network-monitor-dashboard)
 
     
 <h2>🤳Connect with me:</h2>
