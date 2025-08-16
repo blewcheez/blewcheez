@@ -16,8 +16,9 @@
 - <b>Windows Powershell</b>
   - [Windows Powershell: One-Click Diagnosis Script](https://github.com/blewcheez/one-click-script)
     
-- <b>Network Monitoring Dashboard (Python)</b>
+- <b>Network & Security (Python)</b>
   - [Automated Network Monitor Dashboard](https://github.com/blewcheez/network-monitor-dashboard)
+  - [Vulnerability Scanner](https://github.com/blewcheez/super-scanner)
 
     
 <h2>🤳Connect with me:</h2>
