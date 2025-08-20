@@ -18,7 +18,7 @@
     
 - <b>Network & Security (Python)</b>
   - [Automated Network Monitor Dashboard](https://github.com/blewcheez/network-monitor-dashboard)
-  - [Port Scanner](https://github.com/blewcheez/portscanner-dashboard)
+  - [Port Scanner Dashboard](https://github.com/blewcheez/portscanner-dashboard)
 
     
 <h2>🤳Connect with me:</h2>
