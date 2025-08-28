@@ -10,6 +10,7 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/blewcheez/configure-ad)
   - [File Sharing Permissions within an Active Directory](https://github.com/blewcheez/file-sharing-permissions)
   - [DNS exploration](https://github.com/blewcheez/exploring-dns)
+  - [Multi-Infrastructure automation](https://github.com/blewcheez/)
 - <b>Virtual Private Network (VPN)</b>
   - [Configuring a VPN with a VM (Virtual Machine)](https://github.com/blewcheez/vpn-config)
  
